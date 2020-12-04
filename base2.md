@@ -2,9 +2,9 @@
 Python 条件语句是通过一条或多条语句的执行结果（True 或者 False）来决定执行的代码块。  
 
 可以通过下图来简单了解条件语句的执行过程:  
-![](https://www.runoob.com/wp-content/uploads/2013/11/if-condition.jpg)
+![](if-condition.jpg)
 代码执行过程：
-![](https://static.runoob.com/images/mix/python-if.webp)
+![](python-if.webp)
 * if 语句  
 Python中if语句的一般形式如下所示：  
 if condition_1:  
